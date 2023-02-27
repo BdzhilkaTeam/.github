@@ -4,7 +4,7 @@ These repositories contains the code and documentation for the coursework projec
 
 ## Project Overview
 
-Our coursework project is focused on building a web application for managing a small business, namely the restaurant. The application will allow the business owner to manage their inventory, track sales, and generate reports. Customers will also be able to place orders and view the menu online. 📈☕🥐
+Our coursework project is focused on building a web application for managing a small business, namely the restaurant. The application will allow the business owner to manage their products, track sales, and automatic notifications. Waiters will also be able to place orders and view the menu online. 📈☕🥐
 
 ## Technical task
 You can view detailes technical tasks [here](https://github.com/BdzhilkaTeam/.github/edit/main/profile/README.md).
